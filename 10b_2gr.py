@@ -6,8 +6,8 @@ Kudrjavceva Veronika
 Melnic Ana
 3 	
 Mihailovs Alekss
-4 	
-Orlova Katerina
+print(3-2)
+#Orlova Katerina
 5 	
 Rimare Sabîne
 6 	
